@@ -4,7 +4,7 @@
 
 Python basic project .
 
-                      Pong game
+                      Python games
                       
                       Freindship calculation
                       
